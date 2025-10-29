@@ -21,9 +21,13 @@ Generate Fastfetch Config File If You Dont Have:
 ```sh
 fastfetch --gen-config
 ```
-and open your config folder, its inside of /home/user/.config/fastfetch/config.jsonc
-copy arch.jsonc in this repo and paste inside of your config folder. 
+and open your config folder, its inside of "/home/user/.config/fastfetch/config.jsonc"
+
+copy "arch.jsonc" in this repo and paste inside of your config folder. 
+
 and use fastfetch thats it!
+
+
 
 if you want see config folder you can use:
 ```sh
